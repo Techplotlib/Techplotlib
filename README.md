@@ -5,6 +5,8 @@
 
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
+<br>
+
 ***About Me:***<br>
 I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience,  I am also working as a freelancer in Fiverr as a FrontEnd Web Developer. .I am the CEO of my startup Company Techplotlib.
 <br>
