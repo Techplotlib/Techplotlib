@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kundan Kumar, I'm a Frontend Web Developer, Working Remotely. 
+### Hi there 👋, I'm Kundan Kumar, I'm a Frontend Web Developer
 ### And I'm Open for Job Offers ! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kundan-7735)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kundan_kumar2021@outlook.com)
