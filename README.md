@@ -8,7 +8,7 @@
 <br>
 
 ***About Me:***<br>
-I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience,  I am also working as a freelancer in Fiverr as a FrontEnd Web Developer. .I am the CEO of my startup Company Techplotlib.
+I'm a skilled ***Frontend Web Developer*** with strong Backend knowledge and experience,  I am also working as a freelancer in Fiverr as a FrontEnd Web Developer. 
 <br>
 <br>
 I'm always eager to learn, open to change my way of thinking and implementing things, open to learning new technologies, frameworks, and development techniques every day!
