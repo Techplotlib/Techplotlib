@@ -53,6 +53,7 @@ Get in touch with me at kundan_kumar2021@outlook.com or through my linkedIn (lin
     <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
     <img title="Vercel" alt="Vercel" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/vercel.png">
   </span>
+  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 </p>
 
 
