@@ -66,7 +66,7 @@ Get in touch with me at kundan_kumar2021@outlook.com or through my linkedIn (lin
 
 
 <p align="center">
-  <span align="center" class="d-flex">
+  <span align="left" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
