@@ -2,7 +2,7 @@
 ### And I'm Open for Job Offers ! :tada: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kundan-773)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kundan_kumar2021@outlook.com)
-[![Instagram](https://img.shields.io/badge/-instagram-c14438?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kundan_kumar7735))
+[![Instagram](https://img.shields.io/badge/-instagram-c14448?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kundan_kumar7750)
 
 
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
@@ -21,8 +21,7 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 <br>
-- ⚡ Fun fact: **I love to listen to music**
-- 
+- ⚡ Fun fact: **I love to listen to music** 
 - <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -58,6 +57,7 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Team-W
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techplotlib&show_icons=true&locale=en&layout=compact" alt="Techplotlib" />
  <div>
+     <br><br>
   
 
 ***Do I Sound Like a Good Fit For Your Team?***
@@ -90,8 +90,7 @@ Get in touch with me at kundan_kumar2021@outlook.com or through my linkedIn (lin
     <img title="Github" alt="Github" height=40 src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png">
     <img title="VSCode" alt="VSCode" height=40 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
     <img title="Firebase" alt="Firbase" height=40 src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png">
-    <img title="Heroku" alt="Heroku" height=40 src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg">
-    <img title="Vercel" alt="Vercel" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/vercel.png">
+   
   </span>
   <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 </p>
