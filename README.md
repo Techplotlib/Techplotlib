@@ -57,7 +57,7 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Team-W
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Techplotlib&theme=dracula" alt="Techplotlib" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techplotlib&show_icons=true&theme=dracula&layout=free" alt="Techplotlib" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techplotlib&show_icons=true&theme=dracula&layout=veryfree" alt="Techplotlib" />
  <div>
      <br><br>
   
