@@ -23,7 +23,7 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Team-W
 <br>
 - ⚡ Fun fact: **I love to listen to music** <br>
 
-***My Professional Skills:***<br>
+***My Languages and Tools:***<br>
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
