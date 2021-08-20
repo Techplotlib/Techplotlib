@@ -21,7 +21,7 @@ I'm always eager to learn, open to change my way of thinking and implementing th
 ***My Professional Skills:***<br>
 Problem Solving | Time Management | Communications Skills | Remote-Work | Team-Work | Leadership | Mentorship | Creativity | Attention to Details.
 <br>
-- ⚡ Fun fact: **I love to listen to music** 
+- ⚡ Fun fact: **I love to listen to music** <br>
 ***Languages and Tools***<br>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
