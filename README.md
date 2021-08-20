@@ -53,11 +53,11 @@ Problem Solving | Time Management | Communications Skills | Remote-Work | Team-W
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Techplotlib&show_icons=true&locale=en" alt="Techplotlib" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Techplotlib&show_icons=true&theme=cobalt" alt="Techplotlib" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Techplotlib&" alt="Techplotlib" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techplotlib&show_icons=true&locale=en&layout=compact" alt="Techplotlib" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Techplotlib&show_icons=true&theme=cobalt&layout=compact" alt="Techplotlib" />
  <div>
      <br><br>
   
