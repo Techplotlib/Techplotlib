@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kundan Kumar, I'm a Frontend Web Developer
 ### And I'm Open for Job Offers ! :tada: 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kundan-773)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/kundan-7735)
 [![Outlook](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kundan_kumar2021@outlook.com)
 [![Instagram](https://img.shields.io/badge/-instagram-c14488?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kundan_kumar7750) <p align="center"> <img src="https://komarev.com/ghpvc/?username=Techplotlib&label=Profile%20views&color=0e75b6&style=flat" alt="Techplotlib" /> </p>
 <img width="50%" align="right" alt="developer" src="https://image.freepik.com/free-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg" />
